@@ -1,5 +1,5 @@
 {
-    "name": "syholloway/mrcolor",
+    "name": "marko-ogg/mrcolor",
     "type": "library",
     "description": "Color manipulation tools and format conversion for PHP",
     "keywords": [ "color", "manipulation", "format" ],
