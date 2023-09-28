@@ -49,9 +49,9 @@ class Hsl extends Format
         }
 
         $hex = array(
-            dechex($r),
-            dechex($g),
-            dechex($b)
+            dechex((int) $r),
+            dechex((int) $g),
+            dechex((int) $b)
         );
 
         //Make sure the hex is 6 digit
